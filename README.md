@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patssor&label=Profile%20views&color=0e75b6&style=flat" alt="patssor" /> </p>
 
-- 🔭 Pracuje nad: [**Serwerem Minecraft**](https://dc.ycmc.pl)
+- 🔭 Pracuje nad: [**Serwerem Minecraft**](https://dc.gumhub.pl)
 
 - 🌱 Aktualnie ucze sie: **HTML**
 
