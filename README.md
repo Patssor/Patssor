@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patssor&label=Profile%20views&color=0e75b6&style=flat" alt="patssor" /> </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&center=true&duration=4000&pause=1000&color=72F767&width=435&lines=patsor" alt="Typing SVG" />
+  <img src="https://lanyard.cnrad.dev/api/1422550401403719691?borderRadius=10&theme=dark&bg=0d1117&hideStatus=true&hideTimestamp=true" alt="Discord Presence" />
   
   <br><br>
   
