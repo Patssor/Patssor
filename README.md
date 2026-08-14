@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patssor&label=Profile%20views&color=0e75b6&style=flat" alt="patssor" /> </p>
 
+<p> [![Discord Presence](https://lanyard.cnrad.dev/api/1422550401403719691?borderRadius=10&theme=dark)](https://discord.com/users/1422550401403719691) <p>
+
 <h1 align="center">Hej! Jestem Patsor</h1>
 <h3 align="center">Czyli Wielki Bóg sztuki i nauki</h3>
 
