@@ -13,6 +13,7 @@
 <h1 align="center">Hej! Jestem Patsor</h1>
 <h4 align="center">[ Zajmuje sie tworzeniem pluginów do minecraft ]</h4>
 
+## 📗 O mnie
 - 🔭 Pracuje nad: [**Serwerem Minecraft**](https://dc.gumhub.pl)
 
 - 🌱 Aktualnie ucze sie: 
