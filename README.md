@@ -9,17 +9,12 @@
 
 - 🔭 Pracuje nad: [**Serwerem Minecraft**](https://dc.gumhub.pl)
 
-- 🌱 Aktualnie ucze sie: **HTML**
+- 🌱 Aktualnie ucze sie: 
 
-<h3 align="left">Skontaktuj sie ze mna:</h3>
-<p align="left">
-<a href="https://discord.gg/patsor#0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Patsor#5319" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Jezyki:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
