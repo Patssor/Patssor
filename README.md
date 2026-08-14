@@ -14,10 +14,10 @@
 <h4 align="center">[ Zajmuje sie tworzeniem pluginów do minecraft ]</h4>
 
 ## 📗 O mnie
-- 🔭 Pracuje nad: [**Serwerem Minecraft**](https://dc.gumhub.pl)
-
-- 🌱 Aktualnie ucze sie: 
-
+- 🔭 Pracuje nad własnym [**serwerem minecraft**](https://dc.gumhub.pl)
+- 🌱 Uczę się **HTML** i rozwijam się w **Java**
+- 💡 Tworzę pluginy i systemy pod Minecraft
+- 🚀 Stale rozwijam swoje umiejętności 
 
 <h3 align="left">Jezyki:</h3>
 <p align="left">
