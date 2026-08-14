@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patssor&label=Profile%20views&color=0e75b6&style=flat" alt="patssor" /> </p>
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1422550401403719691?borderRadius=10&theme=dark&bg=0d1117&hideStatus=true&hideTimestamp=true" alt="Discord Presence" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hej!+Jestem+Patsor;Tworze+pluginy+do+Minecraft;Java+%7C+JavaScript+%7C+HTML" alt="Typing SVG" />
+
   <br><br>
-  
+
   <a href="https://discord.com/users/1422550401403719691" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1422550401403719691?borderRadius=10&theme=dark" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/1422550401403719691?borderRadius=10&theme=dark&bg=0d1117&hideStatus=true&hideTimestamp=true" alt="Discord Presence" />
   </a>
 </div>
 
