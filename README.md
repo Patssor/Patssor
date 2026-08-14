@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">Hej! Jestem Patsor</h1>
-<h3 align="center">Czyli Wielki Bóg sztuki i nauki</h3>
+<h3 align="center">Zajmuje sie tworzeniem pluginów do minecraft</h3>
 
 - 🔭 Pracuje nad: [**Serwerem Minecraft**](https://dc.gumhub.pl)
 
