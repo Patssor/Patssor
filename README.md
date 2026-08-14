@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patssor&label=Profile%20views&color=0e75b6&style=flat" alt="patssor" /> </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hej!+Jestem+Patsor;Tworze+pluginy+do+Minecraft;Java+%7C+JavaScript+%7C+HTML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Patsor" alt="Typing SVG" />
 
   <br><br>
 
