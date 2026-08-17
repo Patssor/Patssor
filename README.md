@@ -7,9 +7,6 @@
 
   <br><br>
 
-  <a href="https://discord.com/users/1422550401403719691" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1422550401403719691?borderRadius=10&theme=dark&bg=0d1117&hideStatus=true&hideTimestamp=true" alt="Discord Presence" />
-  </a>
 </div>
 
 <h1 align="center">Hej! Jestem Patsor</h1>
